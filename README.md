@@ -69,3 +69,8 @@ is_anagram(text1, text2):
 tests():
     # typical code that tries test cases
 ```
+
+**implementations**
+
+anagrams-v1.py - solves the problem in 7 strings of code
+anagrams-v2.py - solves the problem in 4 strings of code
